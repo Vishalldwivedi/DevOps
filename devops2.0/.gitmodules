@@ -1,0 +1,3 @@
+[submodule "devops2.0/gitexample.com"]
+    path = devops2.0/gitexample.com
+    url = <https://github.com/Vishalldwivedi/DevOps/tree/master/devops2.0>
